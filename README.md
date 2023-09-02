@@ -4,7 +4,7 @@ I'm Alan, currently a 3rd year Computer Science Student at the University of Wat
 
 
 - 🔭 I’m currently working on a web app to generate ambient soundscapes from popular songs
-- 🌱 I’m currently learning Distributed systems and Systems Architecture
+- 🌱 I’m currently learning Distributed Systems and Systems Architecture
 - 📫 How to reach me: Send me an email at alan.wang2@uwaterloo.ca!
 - 😄 Pronouns: he/him
 
