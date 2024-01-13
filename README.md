@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Alan, currently a 3rd year Computer Science Student at the University of Waterloo. I enjoy diving deep into all aspects of software engineering, currently finding an interest in backend engineering, distributed systems, and cloud computing.
+I'm Alan, currently a 4th year Computer Science Student at the University of Waterloo. I enjoy diving deep into all aspects of software engineering, currently finding an interest in backend engineering, distributed systems, and cloud computing.
 
 
 - 🔭 I’m currently working on a web app to generate ambient soundscapes from popular songs
